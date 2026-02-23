@@ -1,0 +1,3 @@
+[submodule "weekend-challange"]
+	path = weekend-challange
+	url = https://github.com/Bijoy99roy/scheduler.git
